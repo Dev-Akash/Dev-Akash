@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Akash Srivastava working as Software Developer 💻
 <!--
 **Dev-Akash/Dev-Akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on creating Web Solutions for various platforms.
+- 🌱 I’m currently learning Game Development with Unity
+- 💬 Disscus with me about Angular, React, Firebase, Product Development.
+- ⚡ Fun fact: Once i tried to cook food, now I'm not allowed to enter kitchen.
