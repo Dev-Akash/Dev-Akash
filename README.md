@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating Web Solutions for various platforms.
 - 🌱 I’m currently learning Game Development with Unity
 - 💬 Disscus with me about Angular, React, Firebase, Product Development.
-- ⚡ Fun fact: Once i tried to cook food, now I'm not allowed to enter kitchen.
