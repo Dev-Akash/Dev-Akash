@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-akash" alt="dev-akash" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/theakashsri" target="blank"><img src="https://img.shields.io/twitter/follow/theakashsri?logo=twitter&style=for-the-badge" alt="theakashsri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/TheAkashSri" target="blank"><img src="https://img.shields.io/twitter/follow/theakashsri?logo=twitter&style=for-the-badge" alt="theakashsri" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://dev-akash.in/projects](https://dev-akash.in/projects)
 
